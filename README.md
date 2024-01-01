@@ -17,7 +17,7 @@ As of now, the repository primarily contains solutions implemented in `C++`. How
 
 The commit messages will follow this format:
 
-- **(add):filename:** when adding a new solution.
-- **(fix):filename:** for fixing issues.
-- **(impro):filename:** when improving aspects such as time complexity or other enhancements.
+- **(add):PATH:** when adding a new solution.
+- **(fix):PATH:** for fixing issues.
+- **(impro):PATH:** when improving aspects such as time complexity or other enhancements.
 
